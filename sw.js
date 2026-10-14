@@ -1,6 +1,6 @@
 // Offline-Modus für „Mein Geld“.
 // Bei jeder Änderung an der App VERSION hochzählen, damit Handys die neue Version laden.
-const VERSION = 'mein-geld-20261014150054';
+const VERSION = 'mein-geld-20261014151653';
 const SHELL = [
   './',
   './index.html',
